@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.3
 info:
-  title: BFT Documentation API COKKK
+  title: BFT Documentation API
   description: OpenApi documentation for Briix Application.
   contact:
     name: Briix IT Support
